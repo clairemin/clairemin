@@ -1,0 +1,42 @@
+h3
+{color : white;
+font-size : 30px;
+font-family : 'scope one';
+padding-top : 2em;}
+
+body
+{font-family : 'scope one';
+background-color: pink;
+padding-left: 10em;
+padding-right: 30em;
+padding-bottom: 10em;}
+
+#item
+{color : black;}
+.centerlist
+{text-align : center;}
+
+.smaller
+{max-width : 30%;
+display : block;
+height : auto;
+margin-left : auto;
+margin-right : auto;
+border-radius : 50%;}
+
+.pad
+{margin : 30px;}
+
+.smol
+{max-width: 3%;}
+
+.bg
+{background-color: pink;}
+
+/* .oval
+{max-width : 45%;
+display : block;
+height : auto;
+margin-left : auto;
+margin-right : auto;
+border-radius : 20%} */
